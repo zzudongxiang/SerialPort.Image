@@ -1,0 +1,40 @@
+C:\Users\Berney-Zhang\Desktop\image\image\image\bin\Debug\image.exe.config
+C:\Users\Berney-Zhang\Desktop\image\image\bin\Debug\image.exe.config
+C:\Users\Berney-Zhang\Desktop\image\image\bin\Debug\image.exe
+C:\Users\Berney-Zhang\Desktop\image\image\bin\Debug\image.pdb
+C:\Users\Berney-Zhang\Desktop\image\image\obj\Debug\image.csprojResolveAssemblyReference.cache
+C:\Users\Berney-Zhang\Desktop\image\image\obj\Debug\image.Form1.resources
+C:\Users\Berney-Zhang\Desktop\image\image\obj\Debug\image.Properties.Resources.resources
+C:\Users\Berney-Zhang\Desktop\image\image\obj\Debug\image.csproj.GenerateResource.Cache
+C:\Users\Berney-Zhang\Desktop\image\image\obj\Debug\image.exe
+C:\Users\Berney-Zhang\Desktop\image\image\obj\Debug\image.pdb
+D:\工程文件\image\image\bin\Debug\image.exe.config
+D:\工程文件\image\image\obj\Debug\image.exe
+D:\工程文件\image\image\obj\Debug\image.pdb
+D:\工程文件\image\image\bin\Debug\image.exe
+D:\工程文件\image\image\bin\Debug\image.pdb
+D:\工程文件\image\image\obj\Debug\image.csprojResolveAssemblyReference.cache
+D:\工程文件\image\image\obj\Debug\image.Form1.resources
+D:\工程文件\image\image\obj\Debug\image.Properties.Resources.resources
+D:\工程文件\image\image\obj\Debug\image.csproj.GenerateResource.Cache
+D:\My Desktop\工程文件\image\image\bin\Debug\image.exe.config
+D:\My Desktop\工程文件\image\image\obj\Debug\image.exe
+D:\My Desktop\工程文件\image\image\obj\Debug\image.pdb
+D:\My Desktop\工程文件\image\image\bin\Debug\image.exe
+D:\My Desktop\工程文件\image\image\bin\Debug\image.pdb
+D:\My Desktop\工程文件\image\image\obj\Debug\image.csprojResolveAssemblyReference.cache
+D:\My Desktop\工程文件\image\image\obj\Debug\image.Form1.resources
+D:\My Desktop\工程文件\image\image\obj\Debug\image.Properties.Resources.resources
+D:\My Desktop\工程文件\image\image\obj\Debug\image.csproj.GenerateResource.Cache
+D:\My Desktop\工程文件\(2017.09.16)串口图像上位机\image\bin\Debug\image.exe.config
+D:\My Desktop\工程文件\(2017.09.16)串口图像上位机\image\obj\Debug\image.exe
+D:\My Desktop\工程文件\(2017.09.16)串口图像上位机\image\obj\Debug\image.pdb
+D:\My Desktop\工程文件\(2017.09.16)串口图像上位机\image\bin\Debug\image.exe
+D:\My Desktop\工程文件\(2017.09.16)串口图像上位机\image\bin\Debug\image.pdb
+D:\My Desktop\工程文件\(2017.09.16)串口图像上位机\image\obj\Debug\image.csprojResolveAssemblyReference.cache
+D:\My Desktop\工程文件\(2017.09.16)串口图像上位机\image\obj\Debug\image.Form1.resources
+D:\My Desktop\工程文件\(2017.09.16)串口图像上位机\image\obj\Debug\image.Properties.Resources.resources
+D:\My Desktop\工程文件\(2017.09.16)串口图像上位机\image\obj\Debug\image.csproj.GenerateResource.Cache
+D:\My Project\(2017.09.16)串口图像上位机\image\bin\Debug\image.exe.config
+D:\My Project\(2017.09.16)串口图像上位机\image\obj\Debug\image.exe
+D:\My Project\(2017.09.16)串口图像上位机\image\obj\Debug\image.pdb

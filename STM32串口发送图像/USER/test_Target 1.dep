@@ -1,0 +1,165 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_hd.s)(0x532BB241)(--cpu Cortex-M3 -g --apcs=interwork -I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include--list ..\obj\startup_stm32f10x_hd.lst --xref -o ..\obj\startup_stm32f10x_hd.o --depend ..\obj\startup_stm32f10x_hd.d)
+F (.\test.c)(0x59BDE624)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\test.o --omf_browse ..\obj\test.crf --depend ..\obj\test.d)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\usart\usart.h)(0x5323CAD6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (..\SYSTEM\delay\delay.h)(0x50BF2542)
+I (..\HARDWARE\LED\led.h)(0x5317183E)
+I (..\HARDWARE\LCD\lcd.h)(0x5503085A)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (..\USMART\usmart.h)(0x531AE45A)
+I (..\USMART\usmart_str.h)(0x531AE46D)
+I (..\HARDWARE\OV7670\ov7670.h)(0x5090E820)
+I (..\HARDWARE\OV7670\sccb.h)(0x50909F37)
+I (..\HARDWARE\EXTI\exti.h)(0x5333E255)
+I (..\HARDWARE\TIMER\timer.h)(0x5333E255)
+F (..\SYSTEM\delay\delay.c)(0x5290AD52)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\delay.o --omf_browse ..\obj\delay.crf --depend ..\obj\delay.d)
+I (..\SYSTEM\delay\delay.h)(0x50BF2542)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+F (..\SYSTEM\sys\sys.c)(0x52BC4394)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\sys.o --omf_browse ..\obj\sys.crf --depend ..\obj\sys.d)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+F (..\SYSTEM\usart\usart.c)(0x59BCEAF0)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\usart.o --omf_browse ..\obj\usart.crf --depend ..\obj\usart.d)
+I (..\SYSTEM\usart\usart.h)(0x5323CAD6)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+F (..\HARDWARE\LED\led.c)(0x5317183E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\led.o --omf_browse ..\obj\led.crf --depend ..\obj\led.d)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\HARDWARE\LED\led.h)(0x5317183E)
+F (..\HARDWARE\LCD\ILI93xx.c)(0x59B38A2F)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\ili93xx.o --omf_browse ..\obj\ili93xx.crf --depend ..\obj\ili93xx.d)
+I (..\HARDWARE\LCD\lcd.h)(0x5503085A)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (..\HARDWARE\LCD\font.h)(0x52C52FE7)
+I (..\SYSTEM\usart\usart.h)(0x5323CAD6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (..\SYSTEM\delay\delay.h)(0x50BF2542)
+F (..\HARDWARE\EXTI\exti.c)(0x5333E332)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\exti.o --omf_browse ..\obj\exti.crf --depend ..\obj\exti.d)
+I (..\HARDWARE\EXTI\exti.h)(0x5333E255)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\HARDWARE\LED\led.h)(0x5317183E)
+I (..\HARDWARE\KEY\key.h)(0x5317E8E7)
+I (..\SYSTEM\delay\delay.h)(0x50BF2542)
+I (..\SYSTEM\usart\usart.h)(0x5323CAD6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (..\HARDWARE\OV7670\ov7670.h)(0x5090E820)
+I (..\HARDWARE\OV7670\sccb.h)(0x50909F37)
+F (..\HARDWARE\TIMER\timer.c)(0x59BB806F)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\timer.o --omf_browse ..\obj\timer.crf --depend ..\obj\timer.d)
+I (..\HARDWARE\TIMER\timer.h)(0x5333E255)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\HARDWARE\LED\led.h)(0x5317183E)
+I (..\SYSTEM\usart\usart.h)(0x5323CAD6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+F (..\HARDWARE\OV7670\ov7670.c)(0x59841FB7)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\ov7670.o --omf_browse ..\obj\ov7670.crf --depend ..\obj\ov7670.d)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\HARDWARE\OV7670\ov7670.h)(0x5090E820)
+I (..\HARDWARE\OV7670\sccb.h)(0x50909F37)
+I (..\HARDWARE\OV7670\ov7670cfg.h)(0x59857695)
+I (..\HARDWARE\TIMER\timer.h)(0x5333E255)
+I (..\SYSTEM\delay\delay.h)(0x50BF2542)
+I (..\SYSTEM\usart\usart.h)(0x5323CAD6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (..\HARDWARE\EXTI\exti.h)(0x5333E255)
+F (..\HARDWARE\OV7670\sccb.c)(0x50909F6D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\sccb.o --omf_browse ..\obj\sccb.crf --depend ..\obj\sccb.d)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\HARDWARE\OV7670\sccb.h)(0x50909F37)
+I (..\SYSTEM\delay\delay.h)(0x50BF2542)
+F (..\USMART\usmart.c)(0x531AE45A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\usmart.o --omf_browse ..\obj\usmart.crf --depend ..\obj\usmart.d)
+I (..\USMART\usmart.h)(0x531AE45A)
+I (..\USMART\usmart_str.h)(0x531AE46D)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\usart\usart.h)(0x5323CAD6)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+F (..\USMART\usmart_config.c)(0x5333E2A8)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\usmart_config.o --omf_browse ..\obj\usmart_config.crf --depend ..\obj\usmart_config.d)
+I (..\USMART\usmart.h)(0x531AE45A)
+I (..\USMART\usmart_str.h)(0x531AE46D)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\delay\delay.h)(0x50BF2542)
+I (..\SYSTEM\sys\sys.h)(0x52C02CEB)
+I (..\SYSTEM\usart\usart.h)(0x5323CAD6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (..\HARDWARE\LCD\lcd.h)(0x5503085A)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (..\HARDWARE\OV7670\ov7670.h)(0x5090E820)
+I (..\HARDWARE\OV7670\sccb.h)(0x50909F37)
+F (..\USMART\usmart_str.c)(0x531AE46D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\HARDWARE\LED -I..\HARDWARE\KEY -I..\HARDWARE\EXTI -I..\HARDWARE\WDG -I..\HARDWARE\TIMER -I..\HARDWARE\OLED -I..\HARDWARE\LCD -I..\USMART -I..\HARDWARE\OV7670-I "C:\Program Files (x86)\Keil_v5\ARM\RV31\INC"-I "C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include"-I Device\Include-DSTM32F10X_HD-o ..\obj\usmart_str.o --omf_browse ..\obj\usmart_str.crf --depend ..\obj\usmart_str.d)
+I (..\USMART\usmart_str.h)(0x531AE46D)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Program Files (x86)\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Program Files (x86)\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\USMART\usmart.h)(0x531AE45A)
+F (..\README.TXT)(0x533540EF)()

@@ -1,0 +1,112 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\My Desktop\工程文件\串口发送图像\USER\test.uvproj
+Project File Date:  09/07/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling test.c...
+test.c(22): warning:  #1267-D: Implicit physical register R6 should be defined as a variable
+                mov  r6, #320
+test.c(23): warning:  #1267-D: Implicit physical register R7 should be defined as a variable
+                mov  r7, #240
+test.c(25): warning:  #1267-D: Implicit physical register R3 should be defined as a variable
+                mov  r3, 0
+test.c(26): warning:  #1267-D: Implicit physical register R5 should be defined as a variable
+                mov  r5, 1
+test.c(27): warning:  #1267-D: Implicit physical register R1 should be defined as a variable
+                mov  r1, #0x0c00
+test.c(29): warning:  #1267-D: Implicit physical register R2 should be defined as a variable
+                mov  r2, #0x0184
+test.c(31): warning:  #1267-D: Implicit physical register R8 should be defined as a variable
+                mov  r8, #0x1010
+test.c(33): warning:  #1267-D: Implicit physical register R9 should be defined as a variable
+                mov  r9,  #0x88888888
+test.c(34): warning:  #1267-D: Implicit physical register R10 should be defined as a variable
+                mov  r10, #0x33333333
+test.c(35): warning:  #1267-D: Implicit physical register R11 should be defined as a variable
+                mov  r11, #0x100
+test.c(36): warning:  #1267-D: Implicit physical register R12 should be defined as a variable
+                mov  r12, #0x200
+test.c(37): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+                mov  r0, #0x280
+test.c(42): warning:  #1267-D: Implicit physical register R4 should be defined as a variable
+                ldrb r4, [r1, 0x8]              // r4 = GPIOB->IDR;
+test.c(18): warning:  #177-D: variable "count" was declared but never referenced
+        u16 count = 0;
+test.c(80): warning:  #186-D: pointless comparison of unsigned integer with zero
+        if(ov_sta >= 0)
+test.c: 15 warnings, 0 errors
+linking...
+Program Size: Code=30178 RO-data=7090 RW-data=396 ZI-data=1852  
+FromELF: creating hex file...
+"..\OBJ\test.axf" - 0 Error(s), 15 Warning(s).
+Load "..\\OBJ\\test.axf" 
+Set JLink Project File to "D:\My Desktop\工程文件\串口发送图像\USER\JLinkSettings.ini"
+* JLink Info: Device "STM32F103RC" selected (256 KB flash, 48 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.80g, compiled Feb 13 2014 20:50:02
+Firmware: J-Link ARM V8 compiled Jan 31 2018 18:34:52
+Hardware: V8.00
+S/N : 20080643 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RC
+VTarget = 3.325V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+</pre>
+</body>
+</html>
+compiled Jan 31 2018 18:34:52
+Hardware: V8.00
+S/N : 20080643 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RC
+VTarget = 3.332V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
